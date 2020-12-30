@@ -1,5 +1,6 @@
 # Linkar Demo Mobile App With Services
 
+We advise you to use the Linkar Framework for .NET, CORE, JAVA and C.
 
 LinkarViewFiles (Shared Project) 
 
